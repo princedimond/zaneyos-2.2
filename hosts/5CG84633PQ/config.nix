@@ -295,6 +295,7 @@
     warp-terminal
     microsoft-edge
     bitwarden
+    gitkraken
   ];
 
   fonts = {
